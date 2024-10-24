@@ -38,8 +38,8 @@ Visual preference alignment involves training Large Vision-Language Models (LVLM
 <br>
 
 ## 📢 News
-- 🚀 [10/17/2024] We upload our paper to arxiv.
-- 🚀 [10/17/2024] We release our DPO training code on github.
+- 🚀 [10/24/2024] We upload our paper to arxiv.
+- 🚀 [10/24/2024] We release our DPO training code on github.
 
 ## 💡 Highlights
 - 🔥 **Multi-Image Visual Alignment Pipeline**: We first design a multi-image visual alignment pipeline MIA-DPO. Our MIA-DPO requires no manual annotations and does not rely on APIs from larger models, offering a significant cost advantage compared to existing visual alignment approaches. 
