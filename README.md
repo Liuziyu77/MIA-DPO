@@ -23,7 +23,7 @@
      <a href="https://myownskyw7.github.io/"><strong>Jiaqi Wang</strong></a>
   </p>
 <!--   <h2 align="center">Accepted By NeurIPS2024 Dataset and Benchmark Track!</h2> -->
-  📖<a href="https://github.com/Liuziyu77/MIA-DPO/tree/main">Paper</a> |🏠<a href="https://liuziyu77.github.io/MIA-DPO/">Homepage</a></h3>
+  📖<a href="https://arxiv.org/abs/2410.17637">Paper</a> |🏠<a href="https://liuziyu77.github.io/MIA-DPO/">Homepage</a></h3>
 <!--   |🤗<a href="https://huggingface.co/datasets/laolao77/MMDU">Huggingface</a></h3> -->
 <div align="center"></div>
 <p align="center">
