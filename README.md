@@ -107,7 +107,12 @@ Evaluate the processed models using <a href="https://github.com/open-compass/VLM
 
 ## ✒️Citation
 ```
-TBD
+@article{liu2024mia,
+  title={MIA-DPO: Multi-Image Augmented Direct Preference Optimization For Large Vision-Language Models},
+  author={Liu, Ziyu and Zang, Yuhang and Dong, Xiaoyi and Zhang, Pan and Cao, Yuhang and Duan, Haodong and He, Conghui and Xiong, Yuanjun and Lin, Dahua and Wang, Jiaqi},
+  journal={arXiv preprint arXiv:2410.17637},
+  year={2024}
+}
 ```
 
 ## 📄 License
