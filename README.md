@@ -24,7 +24,7 @@
   </p>
 <!--   <h2 align="center">Accepted By NeurIPS2024 Dataset and Benchmark Track!</h2> -->
   📖<a href="https://arxiv.org/abs/2410.17637">Paper</a> |🏠<a href="https://liuziyu77.github.io/MIA-DPO/">Homepage</a></h3>
-<!--   |🤗<a href="https://huggingface.co/datasets/laolao77/MMDU">Huggingface</a></h3> -->
+  |🤗<a href="https://huggingface.co/datasets/laolao77/MIA-DPO">Huggingface</a></h3>
 <div align="center"></div>
 <p align="center">
   <p>
@@ -38,6 +38,7 @@ Visual preference alignment involves training Large Vision-Language Models (LVLM
 <br>
 
 ## 📢 News
+- 🚀 [11/04/2024] We release our dataset.
 - 🚀 [10/24/2024] We upload our paper to arxiv.
 - 🚀 [10/24/2024] We release our DPO training code on github.
 
